@@ -6,7 +6,7 @@ This NIH Chest X-ray Dataset is comprised of 112,120 X-ray images with disease l
 ## What is a multi-label classification problem?
 A multi-label problem contains more than 2 classes/labels for each data. In this research, a multi-label classfication model can tell that an image has multiple diseases.
 
-For this particular research, our research will only be using 8/14 unique diseases/labels in total.
+For this particular research, our research will only be using 10/14 unique diseases/labels in total.
 
 ## What is the goal of this research?
 To define a new research paper based on a multi-label classification problem.
